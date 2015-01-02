@@ -62,7 +62,8 @@ URxvt.pointerBlank:         true
 
 ! *background: #002b36
 ! *background: #001014
-*background: #0B1212
+! *background: #0B1212
+*background: #081010
 *foreground: #839496
 !!*fading: 40
 *fadeColor: #002b36
