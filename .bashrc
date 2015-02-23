@@ -11,7 +11,7 @@ alias pacman='sudo pacman'
 alias chmod='sudo chmod'
 alias switch_audio='~/marc/scripts/audio_switch'
 alias tree='tree -I "node_modules|bower_components|vendor"'
-
+alias myth='sshpass -p q1\!@2wWQ ssh myth'
 
 . /home/usr/marc/github/z/z.sh
 

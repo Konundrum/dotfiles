@@ -4,3 +4,5 @@ cp ~/.bash_profile ./
 cp ~/.i3/config ./.i3/
 cp ~/.Xdefaults ./
 cp ~/.xinitrc ./
+cp ~/.vimrc ./
+cp ~/.gitconfig ./
